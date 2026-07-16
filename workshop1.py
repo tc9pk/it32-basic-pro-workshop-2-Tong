@@ -13,3 +13,4 @@ per = profit * (20/100)
 print(per)
 teamcost = (profit - per) / int(team_member)
 print(teamcost)
+tong
